@@ -1,0 +1,4 @@
+
+https://github.com/adhiiisetiawan/large-scale-pest-recognition
+https://universe.roboflow.com/tini/pest-detection-0sv8g/dataset/5
+https://www.kaggle.com/datasets/simranvolunesia/pest-dataset
